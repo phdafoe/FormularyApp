@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Vera",
+        "repositoryURL": "https://github.com/phdafoe/Vera.git",
+        "state": {
+          "branch": null,
+          "revision": "a56857325ca75af0a25c3acad4498cc204e1376c",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
